@@ -1,0 +1,14 @@
+42357001Summary:
+Total Customers: 1157
+Total Items Sold: 60368
+Total Sales: 228766.24100000405
+Top 10 Items Sold:
+Item SKU : 42359001 Count: 174
+Item SKU : 42358001 Count: 173
+Item SKU : 42357001 Count: 172
+Item SKU : 42356001 Count: 163
+Item SKU : 42360001 Count: 161
+Item SKU : 42355001 Count: 145
+Item SKU : 42312001 Count: 78
+Item SKU : 42313001 Count: 72
+Item SKU : 42311001 Count: 69
